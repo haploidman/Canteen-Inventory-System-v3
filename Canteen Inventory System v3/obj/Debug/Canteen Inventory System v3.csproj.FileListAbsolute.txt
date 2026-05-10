@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\Canteen Inventory System v3\Canteen Inventory System v3\bin\Debug\CanteenDB.mdf
+C:\Users\LENOVO\source\repos\Canteen Inventory System v3\Canteen Inventory System v3\bin\Debug\CanteenDB_log.ldf
+C:\Users\LENOVO\source\repos\Canteen Inventory System v3\Canteen Inventory System v3\bin\Debug\Canteen Inventory System v3.exe.config
+C:\Users\LENOVO\source\repos\Canteen Inventory System v3\Canteen Inventory System v3\bin\Debug\Canteen Inventory System v3.exe
+C:\Users\LENOVO\source\repos\Canteen Inventory System v3\Canteen Inventory System v3\bin\Debug\Canteen Inventory System v3.pdb
+C:\Users\LENOVO\source\repos\Canteen Inventory System v3\Canteen Inventory System v3\obj\Debug\Canteen Inventory System v3.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Canteen Inventory System v3\Canteen Inventory System v3\obj\Debug\Canteen_Inventory_System_v3.Dashboard.resources
+C:\Users\LENOVO\source\repos\Canteen Inventory System v3\Canteen Inventory System v3\obj\Debug\Canteen_Inventory_System_v3.InvForm.resources
+C:\Users\LENOVO\source\repos\Canteen Inventory System v3\Canteen Inventory System v3\obj\Debug\Canteen_Inventory_System_v3.LoginForm.resources
+C:\Users\LENOVO\source\repos\Canteen Inventory System v3\Canteen Inventory System v3\obj\Debug\Canteen_Inventory_System_v3.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Canteen Inventory System v3\Canteen Inventory System v3\obj\Debug\Canteen Inventory System v3.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Canteen Inventory System v3\Canteen Inventory System v3\obj\Debug\Canteen Inventory System v3.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Canteen Inventory System v3\Canteen Inventory System v3\obj\Debug\Canteen Inventory System v3.exe
+C:\Users\LENOVO\source\repos\Canteen Inventory System v3\Canteen Inventory System v3\obj\Debug\Canteen Inventory System v3.pdb
+C:\Users\LENOVO\source\repos\Canteen Inventory System v3\Canteen Inventory System v3\obj\Debug\Canteen_Inventory_System_v3.StockForm.resources
+C:\Users\LENOVO\source\repos\Canteen Inventory System v3\Canteen Inventory System v3\obj\Debug\Canteen_Inventory_System_v3.Archive.resources

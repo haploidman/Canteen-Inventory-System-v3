@@ -1,0 +1,2 @@
+SELECT * FROM Login;
+GO
